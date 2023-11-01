@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /404/
+Sitemap: https://www.sevenslegal.com/sitemap.xml
+Sitemap: https://www.sevenslegal.com/imagessitemap.xml
